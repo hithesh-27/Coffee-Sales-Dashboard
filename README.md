@@ -13,3 +13,7 @@ Features:
 🎛 Interactive slicers for roast type, size, loyalty card, and order date.
 
 📈 Helps identify sales trends, top-performing regions, and customer buying behavior.
+
+Screenshot :
+
+https://github.com/hithesh-27/Coffee-Sales-Dashboard/blob/main/Screenshot%202025-09-15%20010401.png
